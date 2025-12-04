@@ -1,0 +1,29 @@
+body{
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+}
+
+header{
+    background-color:rgb(96, 96, 96) ;
+}
+
+header h1{
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(96, 255, 255);
+}
+
+header .navbar{
+    border-top: rgb(0, 0, 0) solid 5px;
+    border-bottom: rgb(0, 0, 0) solid 5px
+}
+
+header .navbar ul{
+    list-style-type: none;
+    display: flex;
+}
+
+header .navbar ul li{
+    margin-left: 3em;
+    margin-right: 3em;
+}
