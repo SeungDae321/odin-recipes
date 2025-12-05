@@ -34,3 +34,13 @@ header .navbar ul li{
 header .page-navbar a{
     font-size: 30px;
 }
+
+.contents ul{
+    list-style-type: none;
+    /* display: flex; */
+}
+
+.contents ul li{
+    background-color: rgba(255, 228, 196, 0.478);
+    margin: 1em;
+}
